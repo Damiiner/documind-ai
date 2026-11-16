@@ -1,0 +1,8 @@
+# DocuMind AI - runtime dependencies (Python 3.11 or newer)
+pymupdf
+sentence-transformers
+chromadb
+requests
+fastapi
+uvicorn
+python-multipart

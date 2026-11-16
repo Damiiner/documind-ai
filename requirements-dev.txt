@@ -1,0 +1,5 @@
+# for the tests and the optional keyword search
+-r requirements.txt
+pytest
+httpx
+rank-bm25
